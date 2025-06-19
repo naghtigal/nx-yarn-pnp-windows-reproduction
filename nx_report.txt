@@ -1,0 +1,24 @@
+reporNode           : 22.14.0
+OS             : win32-x64
+Native Target  : x86_64-windows
+yarn           : 4.9.2
+
+nx                 : 21.2.0
+@nx/js             : 21.2.0
+@nx/eslint         : 21.2.0
+@nx/workspace      : 21.2.0
+@nx/devkit         : 21.2.0
+@nx/eslint-plugin  : 21.2.0
+@nx/playwright     : 21.2.0
+@nx/react          : 21.2.0
+@nx/vite           : 21.2.0
+@nx/web            : 21.2.0
+typescript         : 5.8.3
+---------------------------------------
+Registered Plugins:
+@nx/js/typescript
+@nx/react/router-plugin
+@nx/eslint/plugin
+@nx/vite/plugin
+---------------------------------------
+Cache Usage: 0.00 B / 12.17 GB
