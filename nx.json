@@ -12,7 +12,6 @@
     ],
     "sharedGlobals": ["{workspaceRoot}/.gitlab-ci.yml"]
   },
-  "nxCloudId": "68540cb5412ab45b1ddf26a7",
   "plugins": [
     {
       "plugin": "@nx/js/typescript",
@@ -58,13 +57,8 @@
         "buildDepsTargetName": "build-deps",
         "watchDepsTargetName": "watch-deps"
       }
-    },
-    {
-      "plugin": "@nx/playwright/plugin",
-      "options": {
-        "targetName": "e2e"
-      }
     }
+   
   ],
   "targetDefaults": {
     "test": {
